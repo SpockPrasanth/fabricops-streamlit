@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+requests
+azure-identity
+msal
+sempy
+sempy-labs
